@@ -13,7 +13,7 @@ session_start();
 <div class="col-sm-4 mb-5">
   <!-- Main Content area start Middle -->
   <?php 
- $sql = "SELECT request_id, request_info, request_desc, request_date FROM submitrequest_tb";
+ $sql = "SELECT request_id, request_info, request_desc, request_date FROM submitrequest_tb ORDER BY request_id DESC";
  $result = $conn->query($sql);
  if($result->num_rows > 0){
   while($row = $result->fetch_assoc()){

@@ -1,6 +1,7 @@
 <?php
 session_start();
 define('TITLE', 'Success');
+define('PAGE', 'productsellsuccess');
 include('includes/header.php'); 
 include('../dbConnection.php');
 
