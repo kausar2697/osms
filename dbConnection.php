@@ -1,7 +1,7 @@
 <?php
 $db_host = "localhost";
 $db_user = "root";
-$db_password = "Ever#expert$123";
+$db_password = "";
 $db_name = "osms_db";
 
 // Create Connection
