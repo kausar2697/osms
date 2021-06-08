@@ -41,7 +41,7 @@
   </nav> <!-- End Navigation -->
 
   <!-- Start Header Jumbotron-->
-  <header class="jumbotron back-image" style="background-image: url(images/Banner1.jpeg);">
+  <header class="jumbotron back-image" >
     <div class="myclass mainHeading">
       <h1 class="text-uppercase text-danger font-weight-bold">Welcome to OSMS</h1>
       <p class="font-italic">Customer's Happiness is our Aim</p>
@@ -55,21 +55,9 @@
     <div class="jumbotron">
       <h3 class="text-center">OSMS Services</h3>
       <p>
-        OSMS Services is India’s leading chain of multi-brand Electronics and Electrical service
-        workshops offering
-        wide array of services. We focus on enhancing your uses experience by offering world-class
-        Electronic
-        Appliances maintenance services. Our sole mission is “To provide Electronic Appliances care
-        services to
-        keep the devices fit and healthy and customers happy and smiling”.
-
-        With well-equipped Electronic Appliances service centres and fully trained mechanics, we
-        provide quality
-        services with excellent packages that are designed to offer you great savings.
-
-        Our state-of-art workshops are conveniently located in many cities across the country. Now you
-        can book
-        your service online by doing Registration.
+      OSMS Services is Bangladesh's leading chain of multi-brand Electronics and Electrical service workshops offering wide array of services.
+      We focus on enhancing your uses experience by offering world-class Electronic Appliances maintenance services.
+      Our sole mission is "To provide Electronic Appliances care services to keep the devices fit and healthy and customers happy and smilling".
       </p>
 
     </div>
@@ -108,12 +96,10 @@
         <div class="col-lg-3 col-sm-6">
           <!-- Start Customer 1st Column-->
           <div class="card shadow-lg mb-2">
-            <div class="card-body text-center">
-              <img src="images/avtar1.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Rahul Kumar</h4>
-              <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
-                ducimus voluptas
-                nesciunt debitis numquam.</p>
+            <div class="card-body text-center" style="height: 270px;">
+              <img src="images\avtar1.jpg" class="img-fluid" style="border-radius: 113px; height: 150px; width: 150px;" alt="avt1">
+              <h4 class="card-title">Jannatul Ferdos</h4>
+              <p class="card-text">Jannatul is our regular customer</p>
             </div>
           </div>
         </div> <!-- End Customer 1st Column-->
@@ -121,12 +107,10 @@
         <div class="col-lg-3 col-sm-6">
           <!-- Start Customer 2nd Column-->
           <div class="card shadow-lg mb-2">
-            <div class="card-body text-center">
-              <img src="images/avtar2.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Sonam Sharma</h4>
-              <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
-                ducimus voluptas
-                nesciunt debitis numquam.</p>
+            <div class="card-body text-center" style="height: 270px;">
+              <img src="images\avtar2.jpg" class="img-fluid" style="border-radius: 113px; height: 150px; width: 150px;" alt="avt2">
+              <h4 class="card-title">Tania Goni</h4>
+              <p class="card-text">Tania is our regular customer</p>
             </div>
           </div>
         </div> <!-- End Customer 2nd Column-->
@@ -134,12 +118,10 @@
         <div class="col-lg-3 col-sm-6">
           <!-- Start Customer 3rd Column-->
           <div class="card shadow-lg mb-2">
-            <div class="card-body text-center">
-              <img src="images/avtar3.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Sumit Vyas</h4>
-              <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
-                ducimus voluptas
-                nesciunt debitis numquam.</p>
+            <div class="card-body text-center" style="height: 270px;">
+              <img src="images\avtar3.jpg" class="img-fluid" style="border-radius: 113px; height: 150px; width: 150px;" alt="avt3">
+              <h4 class="card-title">Zan David</h4>
+              <p class="card-text">Zan David is our regular customer</p>
             </div>
           </div>
         </div> <!-- End Customer 3rd Column-->
@@ -147,12 +129,10 @@
         <div class="col-lg-3 col-sm-6">
           <!-- Start Customer 4th Column-->
           <div class="card shadow-lg mb-2">
-            <div class="card-body text-center">
-              <img src="images/avtar4.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Jyoti Sinha</h4>
-              <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
-                ducimus voluptas
-                nesciunt debitis numquam.</p>
+            <div class="card-body text-center" style="height: 270px;">
+              <img src="images\avtar4.jpg" class="img-fluid" style="border-radius: 113px; height: 150px; width: 150px;" alt="avt4">
+              <h4 class="card-title">Hayat</h4>
+              <p class="card-text">Hayat is our regular customer</p>
             </div>
           </div>
         </div> <!-- End Customer 4th Column-->
